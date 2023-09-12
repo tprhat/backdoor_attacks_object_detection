@@ -1,0 +1,6 @@
+train: dataset_poisoned2/train
+test: dataset_poisoned2/test
+val: dataset_poisoned2/valid
+
+nc: 11
+classes: ['person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train', 'truck', 'boat', 'traffic light', 'fire hydrant']
